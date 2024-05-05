@@ -1,59 +1,59 @@
 - summary: |
     Проверка Кроссбраузерности веб-сайт
-  status:
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка кроссплатформенности веб-сайта
-  status: 
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка успешной регистрации игрока
-  status: 
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка успешной авторизации существующего пользователя
-  status: 
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка успешного восстановления пароля
-  status: 
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка простой, тестовой битвы без регистрации на главной странице сайта
-  status: 
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка успешного создания лобби против других игроков
-  status: 
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка успешного создания лобби против бота
-  status: 
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка успешного создания лобби против друга
-  status:
+  status: pass
 
-  - summary: |
+- summary: |
     Проверка успешного создания лобби против бота на максимальной сложности
-  status:
+  status: pass
 
-  - summary: |
+- summary: |
      Проверка успешного отправления сообщения в общий чат
-  status:
+  status: pass
 
-  - summary: |
-    Успешное добавление игроком задачи в Task packs
-  status: 
-
-  - summary: |
+- summary: |
     Успешный просмотр расписания турниров
-  status: 
+  status: pass
   
-  - summary: |
+- summary: |
     Успешный просмотр истории игр
-  status: 
+  status: pass
 
-  - summary: |
+- summary: |
     Успешный просмотр игроком чужой игры
-  status: 
+  status: pass
+
+- summary: |
+    Успешная проверка возможности игрока сдаться во время игры 
+  status: pass
